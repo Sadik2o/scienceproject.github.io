@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+body{
+font-family: 'Work Sans', 'sans-serif';
+font-family: 'Oswald', 'sans-serif'; font-weight: 500;
+font-size: 16px;
+}
+h1 h2 h3 h4 h5 h6 {
+    font-family: 'Oswald', 'sans-serif'; font-weight: 500;
+}
+section{
+    padding:80px 0px;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width:1140px;
+    padding-left:15px ;
+    padding-right: 15px;
+    margin: auto;
+}
+footer{
+    background: #1d2630;
+    height: 345px;
+    color:
+    white;
+}
+.schoolnameoffoot img {
+    width: 70px;
+    overflow: hidden;
+    border-radius: 100px;
+}
+
+.ourimage img {
+    width: 291px;
+    overflow: hidden;
+    margin-right: 12px;
+    margin-bottom: 20px;
+}
+
+.schoolnameoffoot {
+    width: 330px;
+    overflow: hidden;
+    padding-top: 35px;
+    float: left;
+    margin-top: 50px;
+}
+
+.headlineoffoot {
+    overflow: hidden;
+    width: 330px;
+    padding: 60px;
+    float: left;
+    margin-top: 41px;
+}
+
+.ourimage {
+    overflow: hidden;
+    width: 300px;
+    float: left;
+    margin-top: 75px;
+}
+
+.schoolnameoffoot h3 {
+    margin: 35px 0px;
+}
+.logofootside {
+    padding: 0px 129px;
+}
+.headlineoffoot h3 {
+    padding: 45px 30px;
+    text-align: center;
+}
+.copyright {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+    padding: 320px 0px 0px 0px;
+    color: white;
+}
+.copyright i {
+    color: #ff214f;
+}
+header {
+    height: 150px;
+    background: #1d2630;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+header h1 {
+    font-size: 34px;
+}
+
+header h3 {
+    font-size: 27px;
+    margin-top: 15px;
+}
+.fastfoodtop {
+    text-align: center;
+    margin: 60px;
+    color: white;
+}
+section#somefood {
+    background: #3d3d3d;
+    height: 900px;
+    overflow: hidden;
+}
+
+.popfastfoodim img {
+    width: 81px;
+}
+
+
+
+
+
+.specialcoursetop {
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 25px;
+}
+
+.specialcourse {
+    overflow: hidden;
+    width: 281px;
+    height: 400px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 1px solid #726464;
+    transition: 0.3s;
+    padding-right: 69px;
+    margin-bottom: 35px;
+}
+.specialcourse:last-child {
+    margin-right: 0px;
+}
+
+.spcorim {overflow: hidden;height: 200px;width: 355px;}
+
+.spcorim img {
+    width: 100%;
+}
+
+.spcortext {
+    width: 349px;
+    font-size: 18px;
+    background: white;
+    padding-top: 25px;
+}
+
+.spcortext img {
+    width: 25px;
+    overflow: hidden;
+}
+
+.spcortext ul {
+    margin-top: 25px;
+}
+.spcortext ul li {
+    font-size: 15px;
+    padding: 6px;
+}
+
+.spcortext ul li i {
+    margin-right: 12px;
+}
+
+.spcortext h3 {
+    text-align: center;
+}
+.spcorbton {margin-top: 0px;}
+
+.spcorbton button {
+    padding: 1px 148px;
+    border: none;
+    border-top: 1px solid #e5e5e5;
+    background: black;
+}
+.spcorbton button a {
+    color: wheat;
+    font-size: 20px;
+    font-weight: 600;
+}
+.specialcourse:hover {
+    transform: translateY(-15px);
+}
+.foodhutimg {
+    width: 50%;
+    float: left;
+}
+
+.abouttext {
+    width: 50%;
+    float: right;
+}
+
+.aboutfood {
+    height: 250px;
+    overflow: hidden;
+    background: #1d2630;
+    color: white;
+}
+.foodhutimg img {
+    overflow: hidden;
+    float: left;
+    max-width: 100%;
+    border-radius: 20px;
+}
+.aboutext {
+    width: 500px;
+    margin-left: 70px;
+    text-align: justify;
+}
+section#bigtitle {
+    background: #007a7a;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+section.gdaboutfood {
+    color: white;
+    background: #3d3d3d;
+    height: 250px;
+    overflow: hidden;
+}
+
+.gdabouttext {
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+
+.gdfoodhutimg {
+    width: 50%;
+    float: right;
+    overflow: hidden;
+}
+
+.gdfoodhutimg img {
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.gdfoodhutsingle {
+    overflow: hidden;
+}
+.gdaboutext {width: 500px;margin-left: 60px;text-align: justify;}
+.copyright p {
+    font-family: arial-black;
+}
+li.forspacing {
+    padding: 8px 0px;
+}
+.gdaboutext h2 {
+    margin-bottom: 20px;
+}
